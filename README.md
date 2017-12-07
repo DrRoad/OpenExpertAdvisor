@@ -6,7 +6,7 @@ Open source expert advisor for the Metatrader4 (MQL4) platform.
 
 This strategy focus mainly on the swiss frank (best results are with EURCHF) and trades at the end of the New York session. The rules are simple; buy when oversold, sell when overbought.
 
-The take profit and stop loss are determined from the symbol's volatility using the average true range (ATR) of the its price.
+The take profit and stop loss are determined from the symbol's volatility using the average true range (ATR) of its price.
 
 # Settings
 
