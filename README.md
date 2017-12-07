@@ -22,4 +22,7 @@ The take profit and stop loss are determined from the symbol's volatility using 
 
 # Notes
 
-This is more of a proof-of-concept than a real trading EA. While the results may seem alluring, the slippage, latency and broker commission would not allow this strategy to be profitable. Do not use this with a real trading account on a Forex broker, you will loose money.
+This is more of a proof-of-concept than a real trading EA. While the results may seem alluring, the slippage, latency and broker commission would not allow this strategy to be profitable. Do not use this with a real trading account on a Forex broker; you will loose money. 
+
+Demo accounts may show profits, but most Forex brokers have lower commission spreads on their demo accounts. Also important, is how the commission spread spikes during the end of the New York session, making this strategy simply unprofitable. 
+
